@@ -1,3 +1,1 @@
-# Project: Landing Page
-
-# [Landing Page](https://fuzziiz.github.io/landing-page/)
+# Project: [Landing Page](https://fuzziiz.github.io/landing-page/)
